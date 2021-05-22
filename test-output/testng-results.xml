@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48448" started-at="2021-05-22T18:12:32Z" finished-at="2021-05-22T18:13:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48448" started-at="2021-05-22T18:12:32Z" finished-at="2021-05-22T18:13:20Z">
+      <class name="Tests.Task">
+        <test-method status="PASS" signature="launchChrome()[pri:0, instance:Tests.Task@4678c730]" name="launchChrome" is-config="true" duration-ms="17258" started-at="2021-05-22T18:12:32Z" finished-at="2021-05-22T18:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChrome -->
+        <test-method status="PASS" signature="Verify()[pri:0, instance:Tests.Task@4678c730]" name="Verify" duration-ms="28214" started-at="2021-05-22T18:12:49Z" finished-at="2021-05-22T18:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Task@4678c730]" name="tearDown" is-config="true" duration-ms="2927" started-at="2021-05-22T18:13:17Z" finished-at="2021-05-22T18:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
